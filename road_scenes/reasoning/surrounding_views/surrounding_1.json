@@ -1,4 +1,5 @@
 {
   "question1": "You are a mature driver behind the wheel. These six images were captured and put together by the surround view camera in your vehicle. The FOV of each surround view camera is approximately 120°. And the middle two images are the directly front.\n Please describe in detail the scenario you are in, make a special distinction between what's in front of you and what's on either side of you!",
-  "question2": "Please count and describe how many vehicles are in the current scene."
+  "question2": "Please count and describe how many vehicles are in the current scene.",
+  "question3": "Please let me know if I am on a one way street or a two way street."
 }
