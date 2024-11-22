@@ -56,7 +56,7 @@ SUMO (Simulation of Urban MObility) represents a microscopic traffic simulation 
 
 The integration of CARLA and SUMO creates a powerful co-simulation environment that leverages the strengths of both platforms. A key feature of our implementation is the precise synchronization between CARLA's three camera views and SUMO's BEV perspective. This synchronization ensures that all visualizations represent the exact same moment in the simulation, allowing researchers to simultaneously observe both detailed vehicle-level interactions through CARLA's cameras and the broader traffic patterns through SUMO's overhead view.
 
-![][image1]
+![Alt text](https://drive.google.com/uc?export=view&id=1DZhVg6faC9qjYXwZzfTN7bFaPNp3Xlyb "WheelBrain Demo Sample")
 
 [Simulation Video](https://vimeo.com/1032191948)
 
